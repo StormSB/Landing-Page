@@ -111,6 +111,8 @@ img {
     font-weight: bold;
     font-size: medium;
     border-radius: 4px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 .more-info-header {
     text-align: center;
